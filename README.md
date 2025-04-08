@@ -12,7 +12,7 @@ Imagen bomba aquí abajo
 
 Tabla | Super | Guay
 --- | --- | ---
-*curvatura* | `no sé, rellleno` | **negritaaa**
+*curvatura* | `rellleno` | **negritaaa**
  Relleno 1|  Relleno 3| Relleno 2
  Hola|qué|tal
  cachi|pi|ruli
