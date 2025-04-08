@@ -13,4 +13,4 @@ Imagen bomba aquí abajo
 Tabla | Super | Guay
 --- | --- | ---
 *curvatura* | `no sé, rellleno` | **negritaaa**
---- si| --- no| --- puede
+ si|  no| puede
