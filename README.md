@@ -12,7 +12,7 @@ Imagen bomba aquí abajo
 
 
 
-Markdown | Less | Pretty
---- | --- | ---
+Tabla | Super | Guay
+ |  | 
 *Still* | `renders` | **nicely**
 1 | 2 | 3
