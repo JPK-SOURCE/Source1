@@ -3,4 +3,4 @@ tortugita
 Here's our logo (hover to see the title text):
 
 Imagen bomba: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
+![alt text](store-assets/markdown-here-chrome-options-1.gimp.ja.png)
